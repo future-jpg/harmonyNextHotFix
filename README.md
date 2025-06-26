@@ -12,5 +12,5 @@ harmonyNext HotFix
   5. 语法优化
   .......
 
-有兴趣的欢迎一起沟通
+有兴趣的欢迎提issue一起沟通
 
